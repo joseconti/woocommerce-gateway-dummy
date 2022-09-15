@@ -1,0 +1,92 @@
+# Copyright (C) 2022 SomewhereWarm
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Dummy Payments Gateway 1.0.3\n"
+"Report-Msgid-Bugs-To: https://woocommerce.com/my-account/create-a-ticket/\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-07-07T09:32:00+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"language-team: LANGUAGE <EMAIL@ADDRESS>\n"
+"X-Domain: woocommerce-gateway-dummy\n"
+
+#. Plugin Name of the plugin
+msgid "WooCommerce Dummy Payments Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://somewherewarm.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds the Dummy Payments gateway to your WooCommerce website."
+msgstr ""
+
+#. Author of the plugin
+msgid "SomewhereWarm"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:42
+#: includes/class-wc-gateway-dummy.php:75
+msgctxt "Dummy payment method"
+msgid "Dummy Payment"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:43
+msgid "Allows dummy payments."
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:66
+msgid "Enable/Disable"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:68
+msgid "Enable Dummy Payments"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:72
+msgid "Title"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:74
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:79
+msgid "Description"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:81
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:82
+msgid "The goods are yours. No money needed."
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:86
+msgid "Payment result"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:87
+msgid "Determine if order payments are successful when using this gateway."
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:91
+msgid "Success"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:92
+msgid "Failure"
+msgstr ""
+
+#: includes/class-wc-gateway-dummy.php:123
+#: includes/class-wc-gateway-dummy.php:141
+msgid "Order payment failed. To make a successful payment using Dummy Payments, please review the gateway settings."
+msgstr ""
